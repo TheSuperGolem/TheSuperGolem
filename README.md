@@ -1,0 +1,4 @@
+- Hello, I’m TheSuperGolem
+- I’m interested in coding and programming
+- I’m currently learning about crypto and blockchains
+- I’m looking to collaborate on the Solana Blockchain
